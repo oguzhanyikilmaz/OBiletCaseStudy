@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}|OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj|d:\\projects\\obilet-casestudy\\obiletcasestudy\\src\\obilet.case.study.api.client\\concrete\\obiletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}|OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj|solutionrelative:obilet.case.study.api.client\\concrete\\obiletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|d:\\projects\\obilet-casestudy\\obiletcasestudy\\src\\obilet.case.study.business\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|solutionrelative:obilet.case.study.business\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|d:\\projects\\obilet-casestudy\\obiletcasestudy\\src\\obilet.case.study.business\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|solutionrelative:obilet.case.study.business\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|d:\\projects\\obilet-casestudy\\obiletcasestudy\\src\\obilet.case.study.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}|OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj|solutionrelative:obilet.case.study.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1139089979:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1330258491:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OBiletService.cs",
+              "DocumentMoniker": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\Concrete\\OBiletService.cs",
+              "RelativeDocumentMoniker": "OBilet.Case.Study.API.Client\\Concrete\\OBiletService.cs",
+              "ToolTip": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\Concrete\\OBiletService.cs",
+              "RelativeToolTip": "OBilet.Case.Study.API.Client\\Concrete\\OBiletService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:44:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "OBilet.Case.Study.Business\\Services\\RedisService.cs",
+              "ToolTip": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\RedisService.cs",
+              "RelativeToolTip": "OBilet.Case.Study.Business\\Services\\RedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:44:18.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\BusService.cs",
+              "RelativeDocumentMoniker": "OBilet.Case.Study.Business\\Services\\BusService.cs",
+              "ToolTip": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\BusService.cs",
+              "RelativeToolTip": "OBilet.Case.Study.Business\\Services\\BusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:44:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OBilet.Case.Study.Business\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "OBilet.Case.Study.Business\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:43:47.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

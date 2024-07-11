@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OBilet.Case.Study.Web.props" />
+</Project>

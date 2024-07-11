@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "m451uMqOALCmPL0ho+11xEqQVC2sd+Uj4JQAJ7l57CZ2gJO0uum+22Jsh6AgK9Eh1Bq/CbhAP6xle7/oRVm3Yg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Web\\OBilet.Case.Study.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
