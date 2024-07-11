@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C505D74D-FB24-4D60-8FC1-77CBBE5F4ACA}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\docker-compose.yml = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\docker-compose.yml
+		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\Dockerfile.dockerfile = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\Dockerfile.dockerfile
+		C:\Users\OguzhanYikilmaz\Desktop\LICENSE.txt = C:\Users\OguzhanYikilmaz\Desktop\LICENSE.txt
+		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\nginx.conf = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\nginx.conf
+		C:\Users\OguzhanYikilmaz\Desktop\README.md = C:\Users\OguzhanYikilmaz\Desktop\README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBilet.Case.Study.Web", "OBilet.Case.Study.Web\OBilet.Case.Study.Web.csproj", "{A88591FA-E83F-49AF-AF89-0B282776BF7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBilet.Case.Study.API.Client", "OBilet.Case.Study.API.Client\OBilet.Case.Study.API.Client.csproj", "{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBilet.Case.Study.Business", "OBilet.Case.Study.Business\OBilet.Case.Study.Business.csproj", "{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88591FA-E83F-49AF-AF89-0B282776BF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88591FA-E83F-49AF-AF89-0B282776BF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88591FA-E83F-49AF-AF89-0B282776BF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88591FA-E83F-49AF-AF89-0B282776BF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C993DFB1-5132-4876-A58C-6A43C4DD8DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3750E02B-1F00-4131-ABE1-FDA42AFEAC07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A88591FA-E83F-49AF-AF89-0B282776BF7B} = {C505D74D-FB24-4D60-8FC1-77CBBE5F4ACA}
+		{C993DFB1-5132-4876-A58C-6A43C4DD8DFC} = {C505D74D-FB24-4D60-8FC1-77CBBE5F4ACA}
+		{3750E02B-1F00-4131-ABE1-FDA42AFEAC07} = {C505D74D-FB24-4D60-8FC1-77CBBE5F4ACA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190A6382-EA00-4840-B6A4-CA5F906E242A}
+	EndGlobalSection
+EndGlobal
