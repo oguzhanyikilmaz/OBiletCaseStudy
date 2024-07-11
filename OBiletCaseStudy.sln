@@ -4,13 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C505D74D-FB24-4D60-8FC1-77CBBE5F4ACA}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\docker-compose.yml = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\docker-compose.yml
-		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\Dockerfile.dockerfile = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\Dockerfile.dockerfile
-		C:\Users\OguzhanYikilmaz\Desktop\LICENSE.txt = C:\Users\OguzhanYikilmaz\Desktop\LICENSE.txt
-		C:\Users\OguzhanYikilmaz\Downloads\docker-compose\nginx.conf = C:\Users\OguzhanYikilmaz\Downloads\docker-compose\nginx.conf
-		C:\Users\OguzhanYikilmaz\Desktop\README.md = C:\Users\OguzhanYikilmaz\Desktop\README.md
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBilet.Case.Study.Web", "OBilet.Case.Study.Web\OBilet.Case.Study.Web.csproj", "{A88591FA-E83F-49AF-AF89-0B282776BF7B}"
 EndProject
