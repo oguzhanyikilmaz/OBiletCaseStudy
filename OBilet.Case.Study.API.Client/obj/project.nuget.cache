@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rSzVL41OMIH0ojmEqoEyBCmPoukS+UgLDyTHCu+D97vX0Sg0g+UwFyaGXBEUkUdYgEj1RYhgJlz4ge1Xa7YmQA==",
+  "dgSpecHash": "XcvevtN9UFIE5VeCdXsDNN8dptJOVDdKg/Y2wDo/orwF88zTnzHXHuO/MbEVPWmmCsyIXfswdcI/aerxENn7SQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
+  "projectFilePath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512"

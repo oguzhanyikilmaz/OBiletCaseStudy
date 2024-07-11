@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {}
+    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj": {
+    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
+        "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
         "projectName": "OBilet.Case.Study.API.Client",
-        "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
+        "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
         "packagesPath": "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\obj\\",
+        "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {
+    "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
+        "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
         "projectName": "OBilet.Case.Study.Business",
-        "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
+        "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
         "packagesPath": "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\obj\\",
+        "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj": {
-                "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj"
+              "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj": {
+                "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj"
               }
             }
           }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OBilet.Case.Study.API.Client
-build_property.ProjectDir = D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\src\OBilet.Case.Study.API.Client\
+build_property.ProjectDir = D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\OBilet.Case.Study.API.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

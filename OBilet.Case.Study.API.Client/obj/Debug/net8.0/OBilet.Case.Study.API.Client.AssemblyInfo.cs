@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBilet.Case.Study.API.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6eb75caf9a12741184f3dce723601399f286bd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05d7a4f57fff5989ef7f3d9a0665eea284519c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBilet.Case.Study.API.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBilet.Case.Study.API.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uje35+/FZVYeeNfxkItGkDiouSyTqBxX8/I3w1OewVSkeAgIRBS2G6KCuzJ6EEDanYp2Up8dL1Ix2y+oECt8kQ==",
+  "dgSpecHash": "Mzqq1n9f7V0HlHj7nWSptXnBBBz0CVwWvUhaQJ9veha2gV/i3qXjuJAAhWZ4Psq47XMxsLuy+mr/QXnJq/aY+g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
+  "projectFilePath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

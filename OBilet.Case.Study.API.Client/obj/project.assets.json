@@ -100,11 +100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
+      "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
       "projectName": "OBilet.Case.Study.API.Client",
-      "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
+      "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\OBilet.Case.Study.API.Client.csproj",
       "packagesPath": "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.API.Client\\obj\\",
+      "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.API.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

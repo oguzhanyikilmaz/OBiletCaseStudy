@@ -537,11 +537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Web\\OBilet.Case.Study.Web.csproj",
+      "projectUniqueName": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Web\\OBilet.Case.Study.Web.csproj",
       "projectName": "OBilet.Case.Study.Web",
-      "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Web\\OBilet.Case.Study.Web.csproj",
+      "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Web\\OBilet.Case.Study.Web.csproj",
       "packagesPath": "C:\\Users\\OguzhanYikilmaz\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Web\\obj\\",
+      "outputPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -562,8 +562,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {
-              "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\src\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj"
+            "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj": {
+              "projectPath": "D:\\Projects\\OBilet-CaseStudy\\OBiletCaseStudy\\OBilet.Case.Study.Business\\OBilet.Case.Study.Business.csproj"
             }
           }
         }
