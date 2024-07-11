@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBilet.Case.Study.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05d7a4f57fff5989ef7f3d9a0665eea284519c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c52de011303f1291fef68e9d6a0dea892aab099")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBilet.Case.Study.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBilet.Case.Study.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

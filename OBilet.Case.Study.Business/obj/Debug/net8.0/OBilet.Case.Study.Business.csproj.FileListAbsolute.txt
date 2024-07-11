@@ -29,3 +29,4 @@ D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\src\OBilet.Case.Study.Business\obj\
 D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\src\OBilet.Case.Study.Business\obj\Debug\net8.0\refint\OBilet.Case.Study.Business.dll
 D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\src\OBilet.Case.Study.Business\obj\Debug\net8.0\OBilet.Case.Study.Business.pdb
 D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\src\OBilet.Case.Study.Business\obj\Debug\net8.0\ref\OBilet.Case.Study.Business.dll
+D:\Projects\OBilet-CaseStudy\OBiletCaseStudy\OBilet.Case.Study.Business\obj\Debug\net8.0\OBilet.Case.Study.Business.sourcelink.json
